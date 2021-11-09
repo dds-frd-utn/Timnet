@@ -26,12 +26,12 @@ _En el caso de la app Timnet se tiene que compilar en nativo, para esto se va a 
 ```
 ionic cordova run android
 ```
-_En el caso de la app Timnet-porter puede ser compilada en una web con el comando: _
+_En el caso de la app Timnet-porter puede ser compilada en una web con el comando:_
 
 ```
 ionic serve
 ```
 
-_En el caso de la app Timnet-functions se puede compilar en local bajando el enotrno de desarrollo de firebase, pero esta ya esta subida a cloud y se puede utilizar desde ahi: _
+_En el caso de la app Timnet-functions se puede compilar en local bajando el enotrno de desarrollo de firebase, pero esta ya esta subida a cloud y se puede utilizar desde ahi:_
 
 
