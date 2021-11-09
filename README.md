@@ -2,7 +2,7 @@
 
 _Proyecto final Diseño de sistema 2021_
 
-_el proyecto consiste acutalmente de 3 partes, una app de android cuyo instalador puede ser descarcago desde [Este enlace](https://ionicframework.com/docs/intro/environment)
+_el proyecto consiste acutalmente de 3 partes, una app de android cuyo instalador puede ser descarcago desde [Este enlace](https://github.com/dds-frd-utn/Timnet/releases/tag/v0.0.1-alpha)
 un dash web que proximamente se va a subir a un hosting para su acceso o se puede compilar con las instrucciones que estan acontinuacion
 una parte de functions que va a manejar el envio de la notificaciones al usuario de los toques de timbre
 y a futuro dos paneles de administrador para administrar el sistema, uno a nivel edificio/casa_ y el otro como dueños del sistema_
