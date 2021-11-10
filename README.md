@@ -8,7 +8,7 @@ una parte de functions que va a manejar el envio de la notificaciones al usuario
 y a futuro dos paneles de administrador para administrar el sistema, uno a nivel edificio/casa_ y el otro como dueños del sistema_
 
 ```json
-//Datos logueo dash web
+Datos logueo dash web
 {
     "username":"edelsol",
     "password":"qwe123"
